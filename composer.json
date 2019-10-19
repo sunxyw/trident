@@ -1,0 +1,19 @@
+{
+    "name": "sunxyw/trident",
+    "description": "A simple MVC framework",
+    "type": "project",
+    "license": "MIT",
+    "authors": [{
+        "name": "sunxyw",
+        "email": "xy2496419818@gmail.com"
+    }],
+    "require": {
+        "laravel/helpers": "^1.1",
+        "sunxyw/framework": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
