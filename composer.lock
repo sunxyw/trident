@@ -544,16 +544,16 @@
         },
         {
             "name": "sunxyw/framework",
-            "version": "v1.1",
+            "version": "v1.1.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sunxyw/framework.git",
-                "reference": "56954a9a492ac56dea5afbd23f0081398a3bc237"
+                "reference": "bf5bd856e0ec7709f550b6ffe3488d0e49f7b184"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sunxyw/framework/zipball/56954a9a492ac56dea5afbd23f0081398a3bc237",
-                "reference": "56954a9a492ac56dea5afbd23f0081398a3bc237",
+                "url": "https://api.github.com/repos/sunxyw/framework/zipball/bf5bd856e0ec7709f550b6ffe3488d0e49f7b184",
+                "reference": "bf5bd856e0ec7709f550b6ffe3488d0e49f7b184",
                 "shasum": ""
             },
             "require": {
@@ -580,7 +580,7 @@
                     "email": "xy2496419818@gmail.com"
                 }
             ],
-            "time": "2019-10-19T13:00:07+00:00"
+            "time": "2019-10-20T06:35:50+00:00"
         },
         {
             "name": "symfony/polyfill-mbstring",
